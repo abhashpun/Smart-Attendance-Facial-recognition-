@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+face-recognition
+pillow
+psycopg2-binary
+numpy
+python-multipart
